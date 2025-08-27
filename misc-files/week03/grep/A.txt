@@ -1,3 +1,0 @@
-a file
-with 3
-lines of text

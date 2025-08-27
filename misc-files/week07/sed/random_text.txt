@@ -1,4 +1,0 @@
-This is a line
-This is a second line with the word line repeated 2x.
-This says line 3x -- line line
-line random linear liner lined
